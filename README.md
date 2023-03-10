@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @faker2021
+- 👋 Hi, I’m @faker2021, a softeware engineer
 - 👀 I’m interested in c++
 - 🌱 I’m currently learning rust
 - 💞️ I’m looking to collaborate on ...

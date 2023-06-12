@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @faker2048, a softeware engineer
-- 👀 I’m interested in c++
-- 🌱 I’m currently learning rust
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-faker2021/faker2021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻C++/Python Engineer
+🐱know a bit JavaScript, Machine learning
+✨Anime 🎮 Gamer 🌍Tech Explorer
+🌿 Curious unknown

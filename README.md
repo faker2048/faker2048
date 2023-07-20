@@ -1,4 +1,5 @@
-- 💻C++/Python Engineer
+- 💻Infra Engineer
+- ⌨️C++, Python
 - 🐱know a bit JavaScript, Machine learning
 - ✨Anime 🎮 Gamer 🌍Tech Explorer
 - 🌿 Curious unknown

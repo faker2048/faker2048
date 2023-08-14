@@ -1,5 +1,2 @@
-- 💻Infra Engineer
-- ⌨️C++, Python
-- 🐱know a bit JavaScript, Machine learning
-- ✨Anime 🎮 Gamer 🌍Tech Explorer
-- 🌿 Curious unknown
+💻 Quantitative Developer | CS Bachelor | Good at C++, Python | Familiar with ML
+🌟 Anime Enthusiast | 🎮 Gamer | 🍃 Always Curious

@@ -1,9 +1,16 @@
+### Quantitative Developer | Skilled in C++ & Python
 
-Quant Dev | CS | Modern C++, Python | Familiar with ML, DevOps  
+- **Experience:**  
+    Over 3 years creating trading systems (like automated trading and data analysis) with C++ in a startup.
 
-A lazy coder...
+- **Skills:**  
+    Good at C++, Python, and JS. Know a bit about Machine Learning and DevOps. I like finding simple ways to solve problems.
 
-Like to explore new things
+- **Interests:**  
+    I enjoy video games, anime, and VR. I'm currently learning about computer graphics and love trying out new tech stuff.
 
-I designed and built a number of quantitative trading systems such as automated trade,
-backtest, data pipeline, ML simulator, etc. in modern C++ at a startup.
+- **Looking For:**  
+    I want to take on new and fun challenges.
+
+- **Contact:**  
+    Reach out for cool projects or job offers. (English isn't great, still learning. Chinese native.)

@@ -1,5 +1,7 @@
 ### Quantitative Developer | Skilled in C++ & Python
 
+Lazy, artisanal, enjoys interesting things
+
 - **Experience:**  
     Over 3 years creating trading systems (like automated trading and data analysis) with C++ in a startup.
 
